@@ -24,7 +24,5 @@
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-<p><span>Note: Language usage statistics are based on GitHub contributions and are not a reflection of comfort level and/or exclusivity.</span></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasogara&layout=compact&hide=html" alt="thomasogara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasogara&show_icons=true" alt="thomasogara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasogara&show_icons=true" alt="thomasogara" /></p>
