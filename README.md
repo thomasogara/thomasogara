@@ -2,8 +2,6 @@
 </p></h1>
 <h3 align="center">A passionate software developer from Ireland</h3>
 
-- 🔭 I’m currently working on [VINet (Volunteer Isolate Network)](https://github.com/googleinterns/step226-2020)
-
 - 📫 How to reach me **thomasogara12@gmail.com**
 
 <p align="left">
